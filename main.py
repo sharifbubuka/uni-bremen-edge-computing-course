@@ -1,4 +1,3 @@
-from lib import connect
 import pycom
 import time
 
