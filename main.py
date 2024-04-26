@@ -1,3 +1,6 @@
+from lib import connect
+from lib import sens
+import struct, socket
 import pycom
 import time
 
@@ -10,3 +13,8 @@ while True:
     time.sleep(1)
     pycom.rgbled(0x0000FF)  # Blue
     time.sleep(1)
+
+
+
+
+    
