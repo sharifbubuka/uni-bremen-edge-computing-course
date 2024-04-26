@@ -63,7 +63,7 @@ print(data)
 # Main loop
 while True:
     # Read temperature data from sensor (replace this with your actual sensor reading code)
-    temperature = temp  # Dummy value, replace with actual temperature reading
+    temperature = temp  
     
     # Pack temperature data into a payload
     
